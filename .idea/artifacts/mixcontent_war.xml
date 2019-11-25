@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mixcontent:war">
+    <output-path>$PROJECT_DIR$/mixcontent/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mixcontent</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mixcontent.war">
+      <element id="artifact" artifact-name="mixcontent:war exploded" />
+    </root>
+  </artifact>
+</component>
