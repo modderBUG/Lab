@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Lab.iml" filepath="$PROJECT_DIR$/.idea/Lab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Twossm_parent/Twossm_web/Twossm_web.iml" filepath="$PROJECT_DIR$/Twossm_parent/Twossm_web/Twossm_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divcontent/divcontent.iml" filepath="$PROJECT_DIR$/divcontent/divcontent.iml" />
       <module fileurl="file://$PROJECT_DIR$/mixcontent/mixcontent.iml" filepath="$PROJECT_DIR$/mixcontent/mixcontent.iml" />
       <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
     </modules>

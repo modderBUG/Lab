@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Twossm_web" />
+        <module name="divcontent" />
         <module name="mixcontent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="divcontent" target="1.5" />
       <module name="mixcontent" target="1.7" />
       <module name="Twossm_parent" target="1.5" />
       <module name="Twossm_web" target="1.5" />
